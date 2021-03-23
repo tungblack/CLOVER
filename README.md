@@ -1,2 +1,2 @@
-# Ramdisk iphone  5 ,5c A6 Linux Tools
+# Fix intel graphics HD 4400/4600 
 
